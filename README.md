@@ -4,13 +4,21 @@
 🚧 Personal GitHub page is currently under construction.  
 
 
-### 📊 GitHub Statistic
+### 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHQ98&layout=compact" alt="Top Languages" />
-<table> <tr>
-  <td> <img src="https://github-readme-stats.vercel.app/api?username=TheHQ98&show_icons=true&theme=default" alt="TheHQ98's GitHub Stats" /> </td>
-  <td>  <img src="https://streak-stats.demolab.com/?user=TheHQ98" alt="GitHub Streak" /> </td>
-</tr> </table>  
+<img src="https://github-readme-stats-thehq98.vercel.app/api/top-langs/?username=TheHQ98&layout=compact&count_private=true" alt="Top Languages" />
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-thehq98.vercel.app/api?username=TheHQ98&show_icons=true&theme=default&count_private=true" alt="TheHQ98's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=TheHQ98" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
 
 <!--
 **TheHQ98/TheHQ98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
