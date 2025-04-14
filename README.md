@@ -6,12 +6,12 @@
 
 ### 📊 GitHub Statistics
 
-<img src="https://github-readme-stats-thehq98.vercel.app/api/top-langs/?username=TheHQ98&layout=compact&count_private=true" alt="Top Languages" />
+<img src="https://github-readme-stats-thehq98.vercel.app/api/top-langs/?username=TheHQ98&layout=compact" alt="Top Languages" />
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-thehq98.vercel.app/api?username=TheHQ98&show_icons=true&theme=default&count_private=true" alt="TheHQ98's GitHub Stats" />
+      <img src="https://github-readme-stats-thehq98.vercel.app/api?username=TheHQ98&show_icons=true&theme=default" alt="TheHQ98's GitHub Stats" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com/?user=TheHQ98" alt="GitHub Streak" />
