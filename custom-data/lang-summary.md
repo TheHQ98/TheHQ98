@@ -1,5 +1,7 @@
 ### 💻 My Contributions (Across Organizations)
 
+_Last scan: **2025-04-14 13:06:25 AEST**_
+
 | Language | Bytes |
 |----------|--------|
 | C | 9,276,345 |
@@ -14,3 +16,5 @@
 | JavaScript | 3,712 |
 | Makefile | 1,640 |
 | CSS | 59 |
+
+_Powered by [github-org-stats](https://github.com/TheHQ98/github-org-stats)_
