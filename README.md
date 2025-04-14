@@ -19,6 +19,7 @@
   </tr>
 </table>
 
+📦 [My Contributions (Across Organizations)](https://github.com/TheHQ98/TheHQ98/blob/main/custom-data/lang-summary.md)
 
 <!--
 **TheHQ98/TheHQ98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
